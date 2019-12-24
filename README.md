@@ -15,7 +15,7 @@ In the right bottom corner, the user can find a "+" which will give him a possib
 
 To use the application you should:
 
-* clone the repository `https://github.com/DominikaSzu/reactnd-project-myreads-starter`
+* clone the repository `https://github.com/Kundan28/frontend-nanodegree-myreads-a-book-tracking-app`
 * change the directory to this project
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
